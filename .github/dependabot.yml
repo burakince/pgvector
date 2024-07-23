@@ -12,3 +12,7 @@ updates:
       interval: "daily"
     reviewers:
       - "burakince"
+    groups:
+      actions-deps:
+        patterns:
+          - "*"
