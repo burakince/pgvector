@@ -1,4 +1,4 @@
-FROM ankane/pgvector:v0.5.1
+FROM pgvector/pgvector:0.6.0-pg15
 
 RUN mkdir -p /docker-entrypoint-initdb.d
 
