@@ -1,4 +1,4 @@
-FROM pgvector/pgvector:0.7.0-pg15
+FROM pgvector/pgvector:0.7.1-pg15
 
 RUN mkdir -p /docker-entrypoint-initdb.d
 
